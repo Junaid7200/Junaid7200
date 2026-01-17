@@ -1,4 +1,4 @@
-# Syed Junaid Jaffery
+# Hey there 👋, My name is Junaid
 
 Full-Stack AI Engineer - RAG/ETL pipelines - React/Next.js - RN/Flutter - Django/FastAPI - Supabase/Firebase
 
