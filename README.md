@@ -74,6 +74,15 @@ Full-Stack AI Engineer - RAG/ETL pipelines - React/Next.js - RN/Flutter - Django
 - Email: junaidjaffery1@gmail.com
 - GitHub: https://github.com/Junaid7200
 
+<!--
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Junaid7200&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Junaid7200&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid7200&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+-->
+
 ## You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Junaid7200) 
 
